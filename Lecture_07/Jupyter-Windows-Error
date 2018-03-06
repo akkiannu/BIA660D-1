@@ -1,0 +1,4 @@
+pip uninstall pyzmq
+pip install pyzmq
+pip uninstall tornado
+pip install tornado
